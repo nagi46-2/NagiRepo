@@ -3,15 +3,15 @@
 }
 body {
   font-family: 'Open Sans', sans-serif;
-  background: linear-gradient(120deg, white, blue, cyan);
+  background: linear-gradient(120deg, black, blue, cyan);
 }
 a {
-  color: cyan;
+  color: white;
 }
 
 a:visited {
   
-  color: purple;
+  color: gray;
       }
       
 a:hover {
@@ -92,7 +92,7 @@ a:hover {
   border-radius: 20px;
   padding: 10px 20px;
   color: #FFF;
-  background-color: green;
+  background-color: black;
 }
 .landing-page .content .container {
   display: flex;
@@ -143,4 +143,5 @@ a:hover {
   max-width: 120%;
   margin-top: 50px;
 }
+
 
