@@ -120,7 +120,7 @@ a:hover {
 
 .landing-page .content .info h1 {
   color: white;
-  font-size: 38px;
+  font-size: 30px;
 }  
    
 .landing-page .content .info p {
@@ -143,5 +143,6 @@ a:hover {
   max-width: 120%;
   margin-top: 50px;
 }
+
 
 
