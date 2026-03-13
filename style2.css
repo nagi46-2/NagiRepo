@@ -6,7 +6,7 @@ html, body {
   font-family: 'Open Sans', sans-serif;
   height: 100%;
   margin: 0;
-  background-color: brown;
+  background-color: blue;
 }
 
 .box {
@@ -137,7 +137,7 @@ color: gray
  overflow: hidden;
  position: relative;
  width: 100%;
- background-image: url("адрес фото в репозитории");
+ background-image: url(https://raw.githubusercontent.com/nagi46-2/NagiRepo/refs/heads/main/ikea1.jpg);
  background-attachment: fixed;
  background-size: cover;
  -moz-background-size: cover;
@@ -152,7 +152,7 @@ color: gray
  overflow: hidden;
  position: relative;
  width: 100%;
- background-image: url("адрес фото в репозитории");
+ background-image: url(https://raw.githubusercontent.com/nagi46-2/NagiRepo/refs/heads/main/ikea2.jpg);
  background-attachment: fixed;
  background-size: cover;
  -moz-background-size: cover;
@@ -167,7 +167,7 @@ color: gray
  overflow: hidden;
  position: relative;
  width: 100%;
- background-image: url("адрес фото в репозитории");
+ background-image: url(https://raw.githubusercontent.com/nagi46-2/NagiRepo/refs/heads/main/ikea3.jpeg);
  background-attachment: fixed;
  background-size: cover;
  -moz-background-size: cover;
