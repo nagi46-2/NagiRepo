@@ -84,15 +84,15 @@ html, body {
  font-family: 'Source Sans Pro', sans-serif;
 }
 .first-character 1 {
-color: blue
+ color: #202b4b ; 
  font-family: 'Source Sans Pro', sans-serif;
 }
 .first-character 2 {
-color: green
+ color: #00DCBC ;
  font-family: 'Source Sans Pro', sans-serif;
 }
 .first-character 3 {
-color: gray
+ color: #938E95 ;
  font-family: 'Source Sans Pro', sans-serif;
 }
 
@@ -223,6 +223,7 @@ color: gray
   width: 290px;
  }
 }
+
 
 
 
